@@ -1,0 +1,6 @@
+18DEC2023
+---------
+Start of this internship is very promising learning about Telly and how we clean their dada.
+They sell data based on the users preferences and shows that they watch consistently.
+Learned how much data is collected and engineered into a single database.
+Definitely need some work on excel.
