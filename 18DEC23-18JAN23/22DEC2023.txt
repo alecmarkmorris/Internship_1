@@ -1,0 +1,12 @@
+22DEC2023
+---------
+Had a formal 1-on-1 with el jefe today.
+First week went really well and have some positive things to look back on.
+Also have some areas and technologies to work upon.
+Seeing the bigger of this internship is refreshing to see how building upon knowledge is crucial.
+Some areas I must work on are:
+    * Taking more notes
+    * Thinking through problem on paper first
+        - Then working through in the applications
+    * Crash course of excel
+    * REQUEST lib in python
